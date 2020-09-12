@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "BrightspaceImproved",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "making brightspace better",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "content_scripts": [
     {
