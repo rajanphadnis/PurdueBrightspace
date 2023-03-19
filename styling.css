@@ -22,3 +22,46 @@ d2l-enrollment-card {
     background: none!important;
     border-right: none!important;
 }
+
+/* .d2l-navigation-s-header-logo-area a.d2l-navigation-s-link, .d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:link, .d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:visited {
+    color: white;
+} */
+/* d2l-icon:host([icon*="tier3:"]) {
+    color: white;
+}
+
+d2l-icon:host([icon*="tier1:"]) {
+    color: white;
+} */
+
+.d2l-navigation-s-header-logo-area a.d2l-navigation-s-link,.d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:link,.d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:visited {
+    color:#ffffff!important;
+}
+
+.d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:focus,.d2l-navigation-s-header-logo-area a.d2l-navigation-s-link:hover,.d2l-navigation-s-linkarea-no-color a.d2l-navigation-s-link:focus,.d2l-navigation-s-linkarea-no-color a.d2l-navigation-s-link:hover {
+    color: #ffffff!important
+}
+
+svg {
+    color: #ffffff!important;
+}
+
+/* .d2l-min-width {
+    background-color: #424242;
+} */
+
+.d2l-tile.d2l-widget {
+    background-color: #a9a9a9;
+}
+
+.d2l-collapsepane .d2l-collapsepane-header {
+    background: transparent!important;
+}
+
+.d2l-collapsepane .d2l-collapsepane-content, .d2l-collapsepane .d2l-collapsepane-header.d2l-collapsepane-collapsed {
+    background-color: #a9a9a9;
+}
+
+#ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:hover .d2l-inline .d2l-textblock:first-child, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:focus .d2l-inline .d2l-textblock:first-child, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:hover .d2l-tree-browser-icon, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:focus .d2l-tree-browser-icon {
+    color: #ffffff!important;
+}
