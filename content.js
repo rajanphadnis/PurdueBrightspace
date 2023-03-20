@@ -12,6 +12,22 @@ try {
   document.querySelector(".d2l-page-search").style.display = "none";
 } catch (error) {}
 
+try {
+  document.getElementById("AdditionalInfoPlaceholder").parentElement.style.display = "none";
+  var parent1 = document.getElementById("ContentView").parentElement;
+  var dwnldButton = document.getElementById("ContentView").nextElementSibling;
+  dwnldButton.style.padding = "0px 0 20px 0";
+  // console.log(dwnldButton.children);
+  dwnldButton.children[1].style.display = "none";
+  parent1.firstElementChild.style.margin = "0 0 0.75rem 0";
+  parent1.firstElementChild.style.color = "#ffffff";
+  parent1.insertBefore(document.getElementById("ContentView").nextElementSibling, document.getElementById("ContentView"));
+  document.querySelector(".d2l-min-width").style.backgroundColor = "#424242";
+  document.getElementById("StatusPlaceholder").firstElementChild.style.color = "#ffffff";
+} catch (error) {
+  
+}
+
 var annoucementPage =
   /https:\/\/purdue\.brightspace\.com\/d2l\/home\/\d{6}$/gm.exec(
     window.location.href

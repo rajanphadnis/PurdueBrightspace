@@ -65,3 +65,18 @@ svg {
 #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:hover .d2l-inline .d2l-textblock:first-child, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:focus .d2l-inline .d2l-textblock:first-child, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:hover .d2l-tree-browser-icon, #ContentModuleTree a.d2l-le-TreeAccordionItem-anchor:focus .d2l-tree-browser-icon {
     color: #ffffff!important;
 }
+
+#d2l_le_content_printcontainer {
+    width: 60%;
+}
+
+/* .d2l-le-TreeAccordionItem-anchor vui-heading-4 {
+    color: #ffffff;
+}
+.d2l-link {
+    color: #ffffff;
+} */
+
+html {
+    background-color: #424242!important;
+}
