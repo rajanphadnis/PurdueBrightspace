@@ -8,6 +8,10 @@
       "matches": ["https://purdue.brightspace.com/*"],
       "css": ["styling.css"],
       "js": ["content.js"]
+    },
+    {
+      "matches": ["https://www.purdue.edu/*"],
+      "js": ["login.js"]
     }
   ],
   "icons": {
