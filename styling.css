@@ -80,3 +80,7 @@ svg {
 html {
     background-color: #424242!important;
 }
+
+.d2l-widget-header {
+    display: none!important;
+}
