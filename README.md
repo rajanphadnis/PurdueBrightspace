@@ -1,5 +1,5 @@
-# PurdueBrightspace
-A Chromium Extension to improve Purdue implementation of Brightspace
+# PurdueBrightspace Chromium extension
+A Chromium Extension to improve Purdue's implementation of Brightspace and Purdue Web Authentication
 
 ## Use
 
