@@ -5,18 +5,18 @@
     max-width: 100%!important;
     margin: 0!important;
 }
-/* .homepage-col-4 {
+.homepage-col-4 {
     display: none!important;
 }
-.homepage-col-8 {
+/* .homepage-col-8 {
     width: 100%!important;
-}
+} */
 d2l-enrollment-card {
     width: 25%!important;
 }
 .d2l-card-header {
     display: none!important;
-} */
+}
 
 .d2l-twopanelselector-side-bg.d2l-twopanelselector-side-sep, .d2l-twopanelselector-side.d2l-twopanelselector-side-sep {
     background: none!important;

@@ -10,7 +10,7 @@
       "js": ["content.js"]
     },
     {
-      "matches": ["https://www.purdue.edu/*"],
+      "matches": ["https://sso.purdue.edu/*"],
       "js": ["login.js"]
     }
   ],
